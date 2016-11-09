@@ -1,1 +1,3 @@
-define ql(TEST_GITHUB) 
+define ql(TEST_GITHUB)
+define ql(TEST_4_GITHUB)
+define ql(TEST_5_GITHUB)
