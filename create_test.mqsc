@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-define ql(TEST_6_GITHUB)
-define ql(TEST_7_GITHUB)
-define ql(TEST_8_GITHUB)
+ 
 =======
-define ql(TEST) 
+define ql(TEST)
 >>>>>>> parent of 421c539... Update create_test.mqsc
