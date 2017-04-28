@@ -1,2 +1,2 @@
 
-define ql(TEST_10_GITHUB) 
+alter ql(TEST_10_GITHUB) 
